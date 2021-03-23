@@ -1,6 +1,4 @@
-# Project Title
-
-2-PSnake
+# 2-PSnake
 
 ## Description
 
@@ -14,4 +12,4 @@ Python3, comes installed with most linux distributions.
 
 Clone the repository and run "Two-Player Snake.py"
 
-![alt text](https://github.com/[hany-yacoub]/[2-PSnake]/blob/[pub01]/Screenshot.png?raw=true)
+![alt text](https://github.com/hany-yacoub/2-PSnake/blob/pub01/Screenshot.png?raw=true)
